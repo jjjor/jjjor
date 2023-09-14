@@ -1,6 +1,6 @@
 # Opa, viajante. Meu nome é Jordan, e este é o meu GitHub. 👋
 
-### Desenvolvedor Back-End Jr 👾
+### Desenvolvedor Back-End 👾
 
 <picture>
 <source 
