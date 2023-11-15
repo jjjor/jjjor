@@ -1,4 +1,4 @@
-# Opa, viajante. Meu nome é Jordan, e este é o meu GitHub. 👋
+# Why'd you look at my page just a few minutes?
 
 ### Desenvolvedor Back-End 👾
 
