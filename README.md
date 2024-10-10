@@ -1,4 +1,4 @@
-# Why'd you look at my page just a few minutes?
+# Why'd you look at my page just for a few minutes?
 
 ### Desenvolvedor Back-End 👾
 
