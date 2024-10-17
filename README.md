@@ -1,6 +1,6 @@
 # Why'd you look at my page just for a few minutes?
 
-### Desenvolvedor Back-End 👾
+### Back-End Developer 👾
 
 <picture>
 <source 
@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jjjor_icons=true" />
 </picture>
 
-### Linguagens que uso para atividades e projetos:
+### Languages that I use for projects:
 
 <div style='display: inline_block'><br/>
   <img align='center' alt='c' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
